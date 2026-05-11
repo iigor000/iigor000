@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,java,go,postgres,docker,aws,git,github,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=rust,js,ts,nodejs,python,java,go,postgres,docker,aws,git,github,linux" alt="Tech stack icons" />
 </p>
 
 ### 📊 GitHub stats
