@@ -46,9 +46,3 @@
   </tr>
 </table>
 
-### GitHub stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iigor000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigor000&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
