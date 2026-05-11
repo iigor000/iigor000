@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align='center'>Igor Novaković</h1>
+<p align=center><b>Software Engineering Student - Faculty of Technical Sciences</b></p>
+<p align="center">
+  <a href="mailto:igor.novakovic2004@gmail.com" title="Email">
+    <img alt="GMail" src="https://img.shields.io/badge/Email-GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-novakovic-8a1214287/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<!--
-**iigor000/iigor000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About me
+- Always learning and improving, I focus on building reliable software with strong fundamentals in design, testing, and collaboration. As a software engineering student, I take initiative, seek feedback, and iterate quickly—turning curiosity into practical skills across backend, APIs, and DevOps workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,c,python,java,go,js,ts" alt="Tech stack icons" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,aws,git,github,linux,spring,vue,react,angular,nodejs" alt="Tech stack icons" />
+</p>
+
+### Standout Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h4>NoSQL Database</h4>
+      <p>NoSql database implemented in GoLang. Modern standards for structure and algorithms used.</p>
+      <code>GoLang</code> <code>NoSql</code>
+      <p></p>
+      <a href="https://github.com/iigor000/NoSql-Database" title="Open repository">
+        <img alt="Repo" src="https://img.shields.io/badge/Visit-Repo-0e75b6?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%">
+      <h4>RideNow - Taxi Platform</h4>
+      <p>Real-time ride-sharing orchestration with high-concurrency database management and JWT security.</p>
+      <code>Spring Boot</code> <code>PostgreSQL</code> <code>JWT</code>
+        <p></p>
+        <a href="https://github.com/iigor000/your-taxi-platform-repo" title="Open repository">
+        <img alt="Repo" src="https://img.shields.io/badge/Visit-Repo-0e75b6?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### GitHub stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iigor000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigor000&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
