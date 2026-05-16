@@ -39,7 +39,7 @@
       <p>Real-time ride-sharing orchestration with high-concurrency database management and JWT security.</p>
       <code>Spring Boot</code> <code>PostgreSQL</code> <code>JWT</code>
         <p></p>
-        <a href="https://github.com/iigor000/your-taxi-platform-repo" title="Open repository">
+        <a href="https://github.com/kzi-nastava/mrs-team15-M.I.D" title="Open repository">
         <img alt="Repo" src="https://img.shields.io/badge/Visit-Repo-0e75b6?style=for-the-badge" />
       </a>
     </td>
